@@ -698,6 +698,28 @@
                         </a>
                     </div>
                 </div>
+
+                <!-- Flow-cal -->
+                <div class="tool-card fade-in fade-in-delay-5">
+                    <div class="tool-header">
+                        <div class="tool-icon blue">
+                            <i class="fas fa-wind"></i>
+                        </div>
+                        <div class="tool-name">Flow-cal</div>
+                    </div>
+                    <div class="tool-desc">
+                        All type of flow meter calculation and rating of existing flow meters.
+                    </div>
+                    <div class="tool-footer">
+                        <div class="tool-tags">
+                            <span class="tool-tag">Flow Meter</span>
+                            <span class="tool-tag">Meter Rating</span>
+                        </div>
+                        <a href="https://gajuiitg.github.io/Flow-cal/" target="_blank" class="launch-btn">
+                            Launch <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
 
