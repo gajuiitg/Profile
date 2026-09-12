@@ -649,7 +649,7 @@
                             <span class="tool-tag">64" Pipe</span>
                             <span class="tool-tag">Pressure Drop</span>
                         </div>
-                        <a href="https://github.com/gajuiitg/Hydraulic-Line-Sizing/" target="_blank" class="launch-btn">
+                        <a href="https://gajuiitg.github.io/Hydraulic-Line-Sizing/" target="_blank" class="launch-btn">
                             Launch <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
