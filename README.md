@@ -720,6 +720,29 @@
                         </a>
                     </div>
                 </div>
+
+                <!-- Compressor & Turbine Efficiency -->
+                <div class="tool-card fade-in fade-in-delay-5">
+                    <div class="tool-header">
+                        <div class="tool-icon orange">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div class="tool-name">Compressor &amp; Turbine Efficiency</div>
+                    </div>
+                    <div class="tool-desc">
+                        Compressor polytropic efficiency, condensing + extraction steam turbine efficiency, and pump/fan efficiency calculation in one web utility.
+                    </div>
+                    <div class="tool-footer">
+                        <div class="tool-tags">
+                            <span class="tool-tag">Compressor</span>
+                            <span class="tool-tag">Turbine</span>
+                            <span class="tool-tag">Pump/Fan</span>
+                        </div>
+                        <a href="https://gajuiitg.github.io/Compressor-and-Turbine-Efficiency/" target="_blank" class="launch-btn">
+                            Launch <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
 
